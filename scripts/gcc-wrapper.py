@@ -41,7 +41,6 @@ import subprocess
 
 allowed_warnings = set([
     "return_address.c:62",
-    "mipi_lgit:600",
  ])
 
 # Capture the name of the object file, can find it.
