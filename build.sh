@@ -8,7 +8,7 @@ cp arch/arm/boot/zImage ~/anykernel-mako/
  
 cd ~/anykernel-mako/
  
-zipfile="victor.Kernel-nightly.zip"
+zipfile="victor.Kernel-nightly-CM.zip"
 echo "making zip file"
 cp zImage zip/kernel/
  
